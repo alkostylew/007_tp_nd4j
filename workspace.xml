@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fc577b0-4d32-45a7-ad98-99c2ceefed3b" name="Default Changelist" comment="1st Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1st_branch" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cXuywdu4s5s9SsbkgngLAN0YCP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="007_tp_nd4j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3" />
+      <module name="007_tp_nd4j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test4" />
+      <module name="007_tp_nd4j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test5" />
+      <module name="007_tp_nd4j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test6" />
+      <module name="007_tp_nd4j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test6" />
+        <item itemvalue="Application.Test5" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fc577b0-4d32-45a7-ad98-99c2ceefed3b" name="Default Changelist" comment="" />
+      <created>1590687516634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590687516634</updated>
+    </task>
+    <task id="LOCAL-00001" summary="1st Commit">
+      <created>1590698855877</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590698855877</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="203" width="635" height="274" key="#Notifications" timestamp="1590699972082">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="526" y="203" width="635" height="274" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1590699972082" />
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1590698438341">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590698438341" />
+    <state x="343" y="238" width="423" height="204" key="Github.ShareDialog" timestamp="1590698510820">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="343" y="238" width="423" height="204" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1590698510820" />
+    <state width="1237" height="260" key="GridCell.Tab.0.bottom" timestamp="1590698392453">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="260" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590698392453" />
+    <state width="1237" height="260" key="GridCell.Tab.0.center" timestamp="1590698392453">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="260" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590698392453" />
+    <state width="1237" height="260" key="GridCell.Tab.0.left" timestamp="1590698392453">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="260" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590698392453" />
+    <state width="1237" height="260" key="GridCell.Tab.0.right" timestamp="1590698392453">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="260" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590698392453" />
+    <state width="1237" height="296" key="GridCell.Tab.1.bottom" timestamp="1590691725786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="296" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590691725786" />
+    <state width="1237" height="296" key="GridCell.Tab.1.center" timestamp="1590691725786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="296" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590691725786" />
+    <state width="1237" height="296" key="GridCell.Tab.1.left" timestamp="1590691725786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="296" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590691725786" />
+    <state width="1237" height="296" key="GridCell.Tab.1.right" timestamp="1590691725786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="296" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590691725786" />
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2" timestamp="1590699961816">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="73" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1590699961816" />
+    <state x="351" y="129" key="git4idea.merge.GitPullDialog" timestamp="1590700213260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="351" y="129" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1590700213260" />
+    <state x="443" y="247" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590698794752">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="443" y="247" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590698794752" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1590690210642">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590690210642" />
+  </component>
+</project>
